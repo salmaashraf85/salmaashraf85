@@ -25,7 +25,7 @@
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?salmaashraf85=your-salmaashraf85&show_icons=true&theme=tokyonight)
 
 ---
 
