@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi there, I'm Salma Ashraf!
 
-<!--
-**salmaashraf85/salmaashraf85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Front-End Developer in training  
+🌱 Currently learning React, TypeScript, and building small web projects  
+💡 Interested in internships to gain real-world experience  
+📫 Reach me at: your.email@example.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+- HTML, CSS, SCSS  
+- JavaScript, TypeScript  
+- React  
+- Git & GitHub  
+
+---
+
+### 📂 Projects I'm working on:
+> *Still building my portfolio – but here are a few simple apps I made while learning!*
+
+- [To-do List App](https://github.com/your-username/todo-app)  
+- [Simple Portfolio](https://github.com/your-username/portfolio)  
+- [Weather App](https://github.com/your-username/weather-app)
+
+---
+
+### 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+---
+
+### ✨ Always learning, always building ✨
